@@ -14,8 +14,8 @@
 - Mac osでしか動作しません
 
 
-<img src="assets/output.gif" width="800" />
-
 
 ## アプリ概要
 ### 使用イメージ
+<img src="assets/output.gif" width="800" />
+
