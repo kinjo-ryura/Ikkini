@@ -14,7 +14,7 @@
 - Mac osでしか動作しません
 
 
-
+<img src="assets/output.gif" width="400" />
 
 
 ## アプリ概要
